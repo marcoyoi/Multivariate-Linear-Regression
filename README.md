@@ -22,8 +22,8 @@ Predict the CO2 emission of a car where the weight is 2300kg, and the volume is 
 
 ## Program:
 ```python
-#Developed by: B krishnakanth
-#Reg no:23006762
+#Developed by: Meyyappan.T
+#Register no:212223240086
 import pandas as pd
 from sklearn import linear_model
 df=pd.read_csv("cars (1).csv")
